@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Kashir, a Discord bot with NodeJS & His Website !
+- 🔭 I’m currently working on Kashir, an App for Minecraft & Monitoring !
 - 📫 How to reach me: Invite me on Discord ! Alexλndre#6167 !
 - ⚡ Fun fact: My first project was a calculator for eggs production in Minecraft !
 
